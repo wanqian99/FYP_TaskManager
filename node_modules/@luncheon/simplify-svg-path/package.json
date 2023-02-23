@@ -1,0 +1,42 @@
+{
+  "name": "@luncheon/simplify-svg-path",
+  "version": "0.1.5",
+  "description": "Extracts Path#simplify() from Paper.js.",
+  "license": "MIT",
+  "repository": "luncheon/simplify-svg-path",
+  "files": [
+    "index.js",
+    "index.d.ts",
+    "index.iife.min.js",
+    "index.min.js"
+  ],
+  "type": "module",
+  "main": "index.min.js",
+  "jsdelivr": "index.iife.min.js",
+  "unpkg": "index.iife.min.js",
+  "keywords": [
+    "paper",
+    "paper.js",
+    "svg",
+    "path"
+  ],
+  "prettier": {
+    "printWidth": 140,
+    "endOfLine": "lf",
+    "singleQuote": true,
+    "trailingComma": "all",
+    "semi": false,
+    "arrowParens": "avoid"
+  },
+  "scripts": {
+    "build": "tsc -p . && terser -c -m --module --mangle-props regex=/^_/ -o index.min.js index.js && node build-iife.js && npm t",
+    "test": "node test.js"
+  },
+  "devDependencies": {
+    "jsdom": "^19.0.0",
+    "paper": "^0.12.15",
+    "prettier": "^2.6.2",
+    "terser": "^5.13.1",
+    "typescript": "^4.6.4"
+  }
+}
