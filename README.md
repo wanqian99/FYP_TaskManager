@@ -9,7 +9,7 @@ With an intuitive user flow, the application grants customization within the app
 2) i - for ios simulator
 
 ### Test account:
-Email: test@gmail.com
-Password: testtest
+###### Email: test@gmail.com
+###### Password: testtest
 
 #### Note: Refer to errorLog for solution to errors
