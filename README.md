@@ -1,4 +1,5 @@
 # FYP_TaskManager
+This is a Task Manager application done with React Native and Expo
 
 ### How to run the project:
 
