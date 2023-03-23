@@ -3,6 +3,8 @@ This is a Task Manager application done with React Native and Expo. The objectiv
 
 With an intuitive user flow, the application grants customization within the app, as well as the ability to assign and prioritize tasks with ease. Some of the main features such as image/file attachments, calendar integration, sharing and exporting of tasks allows our target users to go about completing their tasks with increased productivity.
 
+For detailed report, refer to "final_report.pdf". Demo video available at: "taskmanager_demoVid.mp4"
+
 ### How to run the project:
 
 1) expo start
@@ -12,4 +14,4 @@ With an intuitive user flow, the application grants customization within the app
 * Email: test@gmail.com
 * Password: testtest
 
-#### Note: Refer to errorLog for solution to errors
+#### Note: Refer to "errorLog.pdf" for solution to errors
