@@ -47,7 +47,7 @@ For detailed report, refer to "final_report.pdf". Demo video available at: "task
 <kbd>
   <img src="https://user-images.githubusercontent.com/62084317/231963813-ff9d7890-e0de-4e99-8f7e-041ed20102f9.png" width="190">
   <img src="https://user-images.githubusercontent.com/62084317/231963818-d07d6b0b-e357-432f-9c02-e50dc46a1c93.png" width="190">
-  <img src="(https://user-images.githubusercontent.com/62084317/231963824-8333816c-6e6e-4fe2-8e53-c6dc361e2261.png" width="190">
+  <img src="https://user-images.githubusercontent.com/62084317/231963824-8333816c-6e6e-4fe2-8e53-c6dc361e2261.png" width="190">
   <img src="https://user-images.githubusercontent.com/62084317/231963831-91c8487c-205e-44b8-b80c-e9371e190e60.png" width="190">
 </kbd>
 <br><br><br>
