@@ -18,7 +18,7 @@ For detailed report, refer to "final_report.pdf". Demo video available at: "task
 
 ### Screenshots:
 <kbd>
-  <img src="https://user-images.githubusercontent.com/62084317/231962680-489547a4-d387-454d-a196-696df423d504.png" width="200">
+  <img src="https://user-images.githubusercontent.com/62084317/231962680-489547a4-d387-454d-a196-696df423d504.png" width="190">
   <img src="https://user-images.githubusercontent.com/62084317/231962689-5b118afc-52b8-4ebb-a4af-1be86170345c.png" width="190">
   <img src="https://user-images.githubusercontent.com/62084317/231963051-d1ce4f2d-c74f-4968-953a-a970e8202bf9.png" width="190">
   <img src="https://user-images.githubusercontent.com/62084317/231963060-f8a87bfa-eead-44c1-8aaf-fda21c67c96b.png" width="190">
